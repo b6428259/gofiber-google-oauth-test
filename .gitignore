@@ -1,0 +1,16 @@
+# Binaries
+bin/
+dist/
+*.exe
+*.out
+*.test
+
+# IDE
+.vscode/
+.idea/
+
+# Go
+go.sum
+
+# Env
+.env

@@ -12,5 +12,3 @@ dist/
 # Go
 go.sum
 
-# Env
-.env
